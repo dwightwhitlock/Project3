@@ -16,17 +16,19 @@
 
 ./tail [-f] [-c number | -n number] [file]
 
-./true
-./false
+
 
 ./wc [-c | -m] [-lw] [file...]
 
 ### EXTRA CREDIT
 
-./pwd
+
 
 ./chksum [file...]
 
 # Programs in progress
 
 # Programs complete
+./pwd
+./true
+./false
