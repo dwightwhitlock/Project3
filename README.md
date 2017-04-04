@@ -12,11 +12,7 @@
 
 ./mkdir [-p] [-m mode] dir...
 
-./env
-
 ./tail [-f] [-c number | -n number] [file]
-
-
 
 ./wc [-c | -m] [-lw] [file...]
 
