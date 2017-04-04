@@ -1,4 +1,4 @@
-## Programs incomplete
+# Programs incomplete
 
 ./cal [[month] year]
 
@@ -21,12 +21,12 @@
 
 ./wc [-c | -m] [-lw] [file...]
 
-# EXTRA CREDIT
+### EXTRA CREDIT
 
 ./pwd
 
 ./chksum [file...]
 
-## Programs in progress
+# Programs in progress
 
-## Programs complete
+# Programs complete
