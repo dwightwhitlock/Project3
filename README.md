@@ -30,5 +30,9 @@
 
 # Programs complete
 ./pwd
+
+./env
+
 ./true
+
 ./false
