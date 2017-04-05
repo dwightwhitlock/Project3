@@ -8,8 +8,6 @@
 
 ./ln [-s] target-file link-file
 
-./ls [-al] [file...]
-
 ./mkdir [-p] [-m mode] dir...
 
 ./tail [-f] [-c number | -n number] [file]
@@ -23,6 +21,8 @@
 ./chksum [file...]
 
 # Programs in progress
+
+./ls [-al] [file...] - Dylan
 
 # Programs complete
 ./pwd
