@@ -2,8 +2,6 @@
 
 ./cal [[month] year]
 
-./date [+format]
-
 ./head [-n number] [file...]
 
 ./ln [-s] target-file link-file
@@ -12,19 +10,19 @@
 
 ./tail [-f] [-c number | -n number] [file]
 
-./wc [-c | -m] [-lw] [file...]
-
 ### EXTRA CREDIT
-
-
 
 ./chksum [file...]
 
 # Programs in progress
 
-./ls [-al] [file...] - Dylan
+./date [+format] - Dylan
+
+./wc [-c | -m] [-lw] [file...] - Dylan
 
 # Programs complete
+./ls [-al] [file...]
+
 ./pwd
 
 ./env
