@@ -1,32 +1,33 @@
-## Programs incomplete
+# Programs incomplete
 
 ./cal [[month] year]
 
-./date [+format]
-
 ./head [-n number] [file...]
+
+./mkdir [-p] [-m mode] dir...
+
+./tail [-f] [-c number | -n number] [file]
+
+### EXTRA CREDIT
+
+./chksum [file...]
+
+# Programs in progress
+
+./date [+format] - Dylan
+
+./wc [-c | -m] [-lw] [file...] - Dylan
+
+# Programs complete
 
 ./ln [-s] target-file link-file
 
 ./ls [-al] [file...]
 
-./mkdir [-p] [-m mode] dir...
+./pwd
 
 ./env
 
-./tail [-f] [-c number | -n number] [file]
-
 ./true
+
 ./false
-
-./wc [-c | -m] [-lw] [file...]
-
-# EXTRA CREDIT
-
-./pwd
-
-./chksum [file...]
-
-## Programs in progress
-
-## Programs complete
