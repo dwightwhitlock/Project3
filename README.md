@@ -4,8 +4,6 @@
 
 ./head [-n number] [file...]
 
-./ln [-s] target-file link-file
-
 ./mkdir [-p] [-m mode] dir...
 
 ./tail [-f] [-c number | -n number] [file]
@@ -21,6 +19,9 @@
 ./wc [-c | -m] [-lw] [file...] - Dylan
 
 # Programs complete
+
+./ln [-s] target-file link-file
+
 ./ls [-al] [file...]
 
 ./pwd
